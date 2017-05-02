@@ -64,3 +64,5 @@ Love Letter Mystery - https://www.hackerrank.com/challenges/the-love-letter-myst
 Game Of Thrones - https://www.hackerrank.com/challenges/game-of-thrones {Damn this code was a pain!}
 
 Two Strings - https://www.hackerrank.com/challenges/two-strings
+
+Abbreviation - https://www.hackerrank.com/challenges/abbr
